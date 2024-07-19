@@ -1,1 +1,1 @@
-
+This To-Do List web application helps users create, save, and organize their daily tasks with ease. Key features include adding new tasks, marking tasks as completed, and deleting tasks, all with persistent storage using local storage. The app is designed to be responsive and user-friendly. To get started, simply clone the repository, navigate to the project directory, and open index.html in your browser.
